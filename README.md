@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Agustín Reys Reyes.
-- 📚 I'm a civil engineering student in automation.
 - 👀 I’m interested in the development of electronics 
 - I live in Chile 
